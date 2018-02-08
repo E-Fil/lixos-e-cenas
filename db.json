@@ -17,5 +17,24 @@
 			"mockMarketType3 - 2935.3810957535893",
 			"mockMarketType3 - 9157.411936472221"
 		]
+	},
+	"getMarketTypes?sportsId=3345": {
+		"marketTypes": [
+			"mockMarketType33345 - 8572.65436628686",
+			"mockMarketType33345 - 6529.797982016651",
+			"mockMarketType33345 - 9849.549303670094",
+			"mockMarketType33345 - 1391.5619213483055",
+			"mockMarketType33345 - 5907.141363189082",
+			"mockMarketType33345 - 9719.967362300244",
+			"mockMarketType33345 - 6752.2083260291165",
+			"mockMarketType33345 - 5746.503600288242",
+			"mockMarketType33345 - 7093.5839473153055",
+			"mockMarketType33345 - 7357.85163790404",
+			"mockMarketType33345 - 6155.749518725854",
+			"mockMarketType33345 - 2990.1618612693983",
+			"mockMarketType33345 - 9178.613486352882",
+			"mockMarketType33345 - 2935.3810957535893",
+			"mockMarketType33345 - 9157.411936472221"
+		]
 	}
 }
