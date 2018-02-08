@@ -18,7 +18,7 @@
 			"mockMarketType3 - 9157.411936472221"
 		]
 	},
-	"getMarketTypes?sportsId=3345": {
+	"getMarketTypes?sportId=3345": {
 		"marketTypes": [
 			"mockMarketType33345 - 8572.65436628686",
 			"mockMarketType33345 - 6529.797982016651",
