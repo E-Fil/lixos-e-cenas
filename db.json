@@ -1,5 +1,5 @@
 {
-	"getMarketTypes": {
+	"getMarketTypes?sportId=3346": {
 		"marketTypes": [
 			"mockMarketType3 - 8572.65436628686",
 			"mockMarketType3 - 6529.797982016651",
