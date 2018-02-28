@@ -17,5 +17,14 @@
 			"mockMarketType3 - 2935.3810957535893",
 			"mockMarketType3 - 9157.411936472221"
 		]
+	},
+	
+	"artifactory": {
+		"getAppsList": [
+			"BTV",
+			"FCN",
+			"DFI",
+			"MOB"
+		]
 	}
 }
