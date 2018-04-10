@@ -26,8 +26,8 @@
 			"DFI",
 			"MOB"
 		]
-	}
-	
+	},
+
 	"sports": {
 		"sports": [
 			{
@@ -42,6 +42,7 @@
 				"id": 3,
 				"name": "Cricket"
 			}
-		]
+		],
+		"status": "SUCCESS"
 	}
 }
