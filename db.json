@@ -27,4 +27,22 @@
 			"MOB"
 		]
 	}
+	
+	"sports": {
+		"sports": [
+			{
+				"id": 1,
+				"name": "Football"
+			},
+			{
+				"id": 2,
+				"name": "Basketball"
+			},
+			{
+				"id": 3,
+				"name": "Cricket"
+			}
+		],
+		"status": "SUCCESS"
+	}
 }
