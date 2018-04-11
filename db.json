@@ -18,7 +18,7 @@
 			"mockMarketType3 - 9157.411936472221"
 		]
 	},
-	
+
 	"artifactory": {
 		"getAppsList": [
 			"BTV",
@@ -28,21 +28,107 @@
 		]
 	},
 
+	"feeds": {
+		"feeds": [{
+			"id": "1",
+			"name": "BetRadar",
+			"provider": "FEED"
+		}, {
+			"id": "2",
+			"name": "BetGenius",
+			"provider": "FEED"
+		}],
+		"statusDescription": "Success",
+		"status": "SUCCESS"
+	},
+
 	"sports": {
-		"sports": [
-			{
+		"sports": [{
 				"id": 1,
 				"name": "Football"
-			},
-			{
+			}, {
 				"id": 2,
 				"name": "Basketball"
-			},
-			{
+			}, {
 				"id": 3,
 				"name": "Cricket"
 			}
 		],
 		"status": "SUCCESS"
+	},
+	
+	"competitions": {
+		"competitions": [{
+			"id": "31394",
+			"name": "|New Zealand v India Test Series|",
+			"sport": {
+				"id": 21,
+				"name": "Cricket"
+			},
+			"provider": {
+				"id": "1",
+				"name": "BetRadar",
+				"provider": "FEED"
+			}
+		},
+		{
+			"id": "45855",
+			"name": "India v New Zealand - Test Series",
+			"sport": {
+				"id": 21,
+				"name": "Cricket"
+			},
+			"provider": {
+				"id": "2",
+				"name": "BetGenius",
+				"provider": "FEED"
+			}
+		}],
+		"status": "SUCCESS"
+	},
+
+	"events": {
+		"events": [{
+            "id": "1",
+            "name": "Event1",
+            "sport": {
+                "id": 1,
+                "name": "Football"
+            },
+            "provider": {
+				"id": "1",
+				"name": "BetRadar",
+				"provider": "FEED"
+            },
+            "status": "UNBOOKED"
+        }, {
+            "id": "2",
+            "name": "Event2",
+            "sport": {
+                "id": 2,
+                "name": "Basketball"
+            },
+            "provider": {
+				"id": "1",
+				"name": "BetRadar",
+				"provider": "FEED"
+            },
+            "status": "UNBOOKED"
+        }, {
+            "id": "3",
+            "name": "Event3",
+            "sport": {
+                "id": 3,
+                "name": "Cricket"
+            },
+            "provider": {
+				"id": "2",
+				"name": "BetGenius",
+				"provider": "FEED"
+            },
+            "status": "BOOKED"
+        }],
+		"status": "FAILURE"
 	}
+
 }
