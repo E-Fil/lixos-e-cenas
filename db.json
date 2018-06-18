@@ -2,6 +2,7 @@
     "sports": [{
         "id": 1,
         "name": "Football",
+        "date": "2018-06-20 10:00",
         "sgm": [{
             "pp_inplay": true,
             "pp_preplay": false,
@@ -11,6 +12,7 @@
     }, {
         "id": 2,
         "name": "Basketball",
+        "date": "2018-06-20 11:00",
         "sgm": [{
             "pp_inplay": true,
             "pp_preplay": false,
@@ -20,6 +22,7 @@
     }, {
         "id": 3,
         "name": "Cricket",
+        "date": "2018-06-20 12:00",
         "sgm": [{
             "pp_inplay": true,
             "pp_preplay": false,
