@@ -3,81 +3,81 @@
         "id": 1,
         "name": "Football",
         "date": "2018-06-20 10:00",
-        "sgm": [{
+        "sgm": {
             "pp_inplay": true,
             "pp_preplay": false,
             "bf_inplay": true,
             "bf_preplay": false
-        }]
+        }
     }, {
         "id": 2,
         "name": "Basketball",
         "date": "2018-06-20 11:00",
-        "sgm": [{
+        "sgm": {
             "pp_inplay": true,
             "pp_preplay": false,
             "bf_inplay": true,
             "bf_preplay": false
-        }]
+        }
     }, {
         "id": 3,
         "name": "Cricket",
         "date": "2018-06-20 12:00",
-        "sgm": [{
+        "sgm": {
             "pp_inplay": true,
             "pp_preplay": false,
             "bf_inplay": true,
             "bf_preplay": false
-        }]
+        }
     }],
 	
     "competitions": [{
         "id": "1",
         "name": "Comp 1",
-        "sgm": [{
+        "sgm": {
             "pp_inplay": true,
             "pp_preplay": false,
             "bf_inplay": true,
             "bf_preplay": false
-        }]
+        }
     }, {
         "id": "2",
         "name": "Comp 2",
-        "sgm": [{
+        "sgm": {
             "pp_inplay": true,
             "pp_preplay": false,
             "bf_inplay": true,
             "bf_preplay": false
-        }]
+        }
     }],
 
     "events": [{
         "id": "1",
         "name": "Event1",
-        "sgm": [{
+        "sgm": {
             "pp_inplay": true,
             "pp_preplay": false,
             "bf_inplay": true,
             "bf_preplay": false
-        }]
+        }
     }, {
         "id": "2",
         "name": "Event2",
-        "sgm": [{
+        "sgm": {
             "pp_inplay": true,
             "pp_preplay": false,
             "bf_inplay": true,
             "bf_preplay": false
-        }]
+        }
     }, {
         "id": "3",
         "name": "Event3",
-        "sgm": [{
+        "sgm": {
             "pp_inplay": true,
             "pp_preplay": false,
             "bf_inplay": true,
             "bf_preplay": false
-        }]
+        }
     }]
 
 }
