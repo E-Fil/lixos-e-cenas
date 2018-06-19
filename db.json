@@ -1,83 +1,138 @@
 {
-    "sports": [{
-        "id": 1,
-        "name": "Football",
-        "date": "2018-06-20 10:00",
-        "sgm": {
-            "pp_inplay": true,
-            "pp_preplay": false,
-            "bf_inplay": true,
-            "bf_preplay": false
-        }
-    }, {
-        "id": 2,
-        "name": "Basketball",
-        "date": "2018-06-20 11:00",
-        "sgm": {
-            "pp_inplay": true,
-            "pp_preplay": false,
-            "bf_inplay": true,
-            "bf_preplay": false
-        }
-    }, {
-        "id": 3,
-        "name": "Cricket",
-        "date": "2018-06-20 12:00",
-        "sgm": {
-            "pp_inplay": true,
-            "pp_preplay": false,
-            "bf_inplay": true,
-            "bf_preplay": false
-        }
-    }],
-	
-    "competitions": [{
-        "id": "1",
-        "name": "Comp 1",
-        "sgm": {
-            "pp_inplay": true,
-            "pp_preplay": false,
-            "bf_inplay": true,
-            "bf_preplay": false
-        }
-    }, {
-        "id": "2",
-        "name": "Comp 2",
-        "sgm": {
-            "pp_inplay": true,
-            "pp_preplay": false,
-            "bf_inplay": true,
-            "bf_preplay": false
-        }
-    }],
-
-    "events": [{
-        "id": "1",
-        "name": "Event1",
-        "sgm": {
-            "pp_inplay": true,
-            "pp_preplay": false,
-            "bf_inplay": true,
-            "bf_preplay": false
-        }
-    }, {
-        "id": "2",
-        "name": "Event2",
-        "sgm": {
-            "pp_inplay": true,
-            "pp_preplay": false,
-            "bf_inplay": true,
-            "bf_preplay": false
-        }
-    }, {
-        "id": "3",
-        "name": "Event3",
-        "sgm": {
-            "pp_inplay": true,
-            "pp_preplay": false,
-            "bf_inplay": true,
-            "bf_preplay": false
-        }
-    }]
-
+	"sports": [{
+		"id": 1,
+		"name": "Football",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 2,
+		"name": "Basketball",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 3,
+		"name": "Cricket",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}],
+	"competitions": [{
+		"id": "5614746",
+		"name": "2018 FIFA World Cup",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": "141",
+		"name": "US Major League Football",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}],
+	"events": [{
+		"id": "28500602",
+		"competitionId": 5614746,
+		"name": "Colombia v Japan",
+		"date": "2018-06-19T12:00:00.000Z",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": "28500600",
+		"competitionId": 5614746,
+		"name": "Poland v Senegal",
+		"date": "2018-06-19T15:00:00.000Z",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": "28500567",
+		"competitionId": 5614746,
+		"name": "Russia v Egypt",
+		"date": "2018-06-19T18:00:00.000Z",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": "28500607",
+		"competitionId": 5614746,
+		"name": "Portugal v Morocco",
+		"date": "2018-06-20T12:00:00.000Z",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": "28500590",
+		"competitionId": 5614746,
+		"name": "Uruguay v Saudi Arabia",
+		"date": "2018-06-20T15:00:00.000Z",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": "28500574",
+		"competitionId": 5614746,
+		"name": "Iran v Spain",
+		"date": "2018-06-20T18:00:00.000Z",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": "28766881",
+		"competitionId": 141,
+		"name": "Philadelphia v Vancouver Whitecaps",
+		"date": "2018-06-23T21:00:00.000Z",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": "28766880",
+		"competitionId": 141,
+		"name": "New York Red Bulls v Dallas",
+		"date": "2018-06-23T22:00:00.000Z",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}]
 }
