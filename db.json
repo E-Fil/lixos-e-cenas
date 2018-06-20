@@ -272,6 +272,7 @@
 	}],
 	"competitions": [{
 		"id": "5614746",
+		"sportId": 1,
 		"name": "2018 FIFA World Cup",
 		"sgm": {
 			"pp_inplay": true,
@@ -281,6 +282,7 @@
 		}
 	}, {
 		"id": "141",
+		"sportId": 9,
 		"name": "US Major League Football",
 		"sgm": {
 			"pp_inplay": true,
