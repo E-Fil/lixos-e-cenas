@@ -298,9 +298,9 @@
 		"date": "2018-06-19T12:00:00.000Z",
 		"sgm": {
 			"pp_inplay": true,
-			"pp_preplay": false,
+			"pp_preplay": true,
 			"bf_inplay": true,
-			"bf_preplay": false
+			"bf_preplay": true
 		}
 	}, {
 		"id": "28500600",
@@ -308,9 +308,9 @@
 		"name": "Poland v Senegal",
 		"date": "2018-06-19T15:00:00.000Z",
 		"sgm": {
-			"pp_inplay": true,
+			"pp_inplay": false,
 			"pp_preplay": false,
-			"bf_inplay": true,
+			"bf_inplay": false,
 			"bf_preplay": false
 		}
 	}, {
@@ -330,10 +330,10 @@
 		"name": "Portugal v Morocco",
 		"date": "2018-06-20T12:00:00.000Z",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": false,
+			"pp_preplay": true,
+			"bf_inplay": false,
+			"bf_preplay": true
 		}
 	}, {
 		"id": "28500590",
@@ -342,8 +342,8 @@
 		"date": "2018-06-20T15:00:00.000Z",
 		"sgm": {
 			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
+			"pp_preplay": true,
+			"bf_inplay": false,
 			"bf_preplay": false
 		}
 	}, {
@@ -352,10 +352,10 @@
 		"name": "Iran v Spain",
 		"date": "2018-06-20T18:00:00.000Z",
 		"sgm": {
-			"pp_inplay": true,
+			"pp_inplay": false,
 			"pp_preplay": false,
 			"bf_inplay": true,
-			"bf_preplay": false
+			"bf_preplay": true
 		}
 	}, {
 		"id": "28766881",
@@ -363,10 +363,10 @@
 		"name": "Philadelphia v Vancouver Whitecaps",
 		"date": "2018-06-23T21:00:00.000Z",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": null,
+			"pp_preplay": null,
+			"bf_inplay": null,
+			"bf_preplay": null
 		}
 	}, {
 		"id": "28766880",
@@ -374,8 +374,8 @@
 		"name": "New York Red Bulls v Dallas",
 		"date": "2018-06-23T22:00:00.000Z",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
+			"pp_inplay": null,
+			"pp_preplay": null,
 			"bf_inplay": true,
 			"bf_preplay": false
 		}
