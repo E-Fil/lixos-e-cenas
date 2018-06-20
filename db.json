@@ -26,6 +26,393 @@
 			"bf_inplay": true,
 			"bf_preplay": false
 		}
+	}, {
+		"id": 4,
+		"name": "MMA",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 5,
+		"name": "Horseracing",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 6,
+		"name": "Greyhounds",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 7,
+		"name": "Volleyball",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 8,
+		"name": "Handball",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 9,
+		"name": "American Football",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 10,
+		"name": "Rugby",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 11,
+		"name": "Tennis",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 12,
+		"name": "Boxing",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 13,
+		"name": "Motor Sport",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 14,
+		"name": "Special Bets",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 15,
+		"name": "Cycling",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 16,
+		"name": "Golf",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 17,
+		"name": "Rowing",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 18,
+		"name": "Darts",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 19,
+		"name": "Athletics",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 20,
+		"name": "Snooker",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 21,
+		"name": "Baseball",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 22,
+		"name": "Hockey",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 23,
+		"name": "Ice Hockey",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 24,
+		"name": "Sumo",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 25,
+		"name": "Pool",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 26,
+		"name": "Chess",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 27,
+		"name": "CW Games",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 28,
+		"name": "Poker",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 29,
+		"name": "Winter",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 30,
+		"name": "Netball",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 31,
+		"name": "Swimming",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 32,
+		"name": "Badminton",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 33,
+		"name": "Yachting",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 34,
+		"name": "Bowls",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 35,
+		"name": "Bandy",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 36,
+		"name": "Floorball",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 37,
+		"name": "Gaelic Games",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 38,
+		"name": "Politics",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 39,
+		"name": "Table Tennis",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 40,
+		"name": "Beach Volley",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 41,
+		"name": "Canoing",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 42,
+		"name": "Polo",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 43,
+		"name": "Water Polo",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 44,
+		"name": "Fishing",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 45,
+		"name": "Roller Hockey",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
+	}, {
+		"id": 46,
+		"name": "Squash",
+		"sgm": {
+			"pp_inplay": true,
+			"pp_preplay": false,
+			"bf_inplay": true,
+			"bf_preplay": false
+		}
 	}],
 	"competitions": [{
 		"id": "5614746",
