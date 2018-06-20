@@ -291,7 +291,7 @@
 	}],
 	"events": [{
 		"id": "28500602",
-		"competitionId": 5614746,
+		"competitionId": "5614746",
 		"name": "Colombia v Japan",
 		"date": "2018-06-19T12:00:00.000Z",
 		"sgm": {
@@ -302,7 +302,7 @@
 		}
 	}, {
 		"id": "28500600",
-		"competitionId": 5614746,
+		"competitionId": "5614746",
 		"name": "Poland v Senegal",
 		"date": "2018-06-19T15:00:00.000Z",
 		"sgm": {
@@ -313,7 +313,7 @@
 		}
 	}, {
 		"id": "28500567",
-		"competitionId": 5614746,
+		"competitionId": "5614746",
 		"name": "Russia v Egypt",
 		"date": "2018-06-19T18:00:00.000Z",
 		"sgm": {
@@ -324,7 +324,7 @@
 		}
 	}, {
 		"id": "28500607",
-		"competitionId": 5614746,
+		"competitionId": "5614746",
 		"name": "Portugal v Morocco",
 		"date": "2018-06-20T12:00:00.000Z",
 		"sgm": {
@@ -335,7 +335,7 @@
 		}
 	}, {
 		"id": "28500590",
-		"competitionId": 5614746,
+		"competitionId": "5614746",
 		"name": "Uruguay v Saudi Arabia",
 		"date": "2018-06-20T15:00:00.000Z",
 		"sgm": {
@@ -346,7 +346,7 @@
 		}
 	}, {
 		"id": "28500574",
-		"competitionId": 5614746,
+		"competitionId": "5614746",
 		"name": "Iran v Spain",
 		"date": "2018-06-20T18:00:00.000Z",
 		"sgm": {
@@ -357,7 +357,7 @@
 		}
 	}, {
 		"id": "28766881",
-		"competitionId": 141,
+		"competitionId": "141",
 		"name": "Philadelphia v Vancouver Whitecaps",
 		"date": "2018-06-23T21:00:00.000Z",
 		"sgm": {
@@ -368,7 +368,7 @@
 		}
 	}, {
 		"id": "28766880",
-		"competitionId": 141,
+		"competitionId": "141",
 		"name": "New York Red Bulls v Dallas",
 		"date": "2018-06-23T22:00:00.000Z",
 		"sgm": {
