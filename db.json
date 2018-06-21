@@ -3,271 +3,271 @@
 		"id": 1,
 		"name": "Football",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 2,
 		"name": "Basketball",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 3,
 		"name": "Cricket",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 4,
 		"name": "MMA",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 5,
 		"name": "Horseracing",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 6,
 		"name": "Greyhounds",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 7,
 		"name": "Volleyball",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 8,
 		"name": "Handball",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 9,
 		"name": "American Football",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 10,
 		"name": "Rugby",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 11,
 		"name": "Tennis",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 12,
 		"name": "Boxing",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 13,
 		"name": "Motor Sport",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 14,
 		"name": "Special Bets",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 15,
 		"name": "Cycling",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 16,
 		"name": "Golf",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 17,
 		"name": "Rowing",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 18,
 		"name": "Darts",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 19,
 		"name": "Athletics",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 20,
 		"name": "Snooker",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 21,
 		"name": "Baseball",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 22,
 		"name": "Hockey",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 23,
 		"name": "Ice Hockey",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 24,
 		"name": "Sumo",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 25,
 		"name": "Pool",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 26,
 		"name": "Chess",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 27,
 		"name": "CW Games",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 28,
 		"name": "Poker",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 29,
 		"name": "Winter",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": 30,
 		"name": "Netball",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}],
 	"competitions": [{
@@ -275,20 +275,20 @@
 		"sportId": 1,
 		"name": "2018 FIFA World Cup",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": "141",
 		"sportId": 9,
 		"name": "US Major League Football",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}],
 	"events": [{
@@ -297,10 +297,10 @@
 		"name": "Colombia v Japan",
 		"date": "2018-06-19T12:00:00.000Z",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": true,
-			"bf_inplay": true,
-			"bf_preplay": true
+			"pp_inplay": 1,
+			"pp_preplay": 1,
+			"bf_inplay": 1,
+			"bf_preplay": 1
 		}
 	}, {
 		"id": "28500600",
@@ -308,10 +308,10 @@
 		"name": "Poland v Senegal",
 		"date": "2018-06-19T15:00:00.000Z",
 		"sgm": {
-			"pp_inplay": false,
-			"pp_preplay": false,
-			"bf_inplay": false,
-			"bf_preplay": false
+			"pp_inplay": 0,
+			"pp_preplay": 0,
+			"bf_inplay": 0,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": "28500567",
@@ -319,10 +319,10 @@
 		"name": "Russia v Egypt",
 		"date": "2018-06-19T18:00:00.000Z",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": "28500607",
@@ -330,10 +330,10 @@
 		"name": "Portugal v Morocco",
 		"date": "2018-06-20T12:00:00.000Z",
 		"sgm": {
-			"pp_inplay": false,
-			"pp_preplay": true,
-			"bf_inplay": false,
-			"bf_preplay": true
+			"pp_inplay": 0,
+			"pp_preplay": 1,
+			"bf_inplay": 0,
+			"bf_preplay": 1
 		}
 	}, {
 		"id": "28500590",
@@ -341,10 +341,10 @@
 		"name": "Uruguay v Saudi Arabia",
 		"date": "2018-06-20T15:00:00.000Z",
 		"sgm": {
-			"pp_inplay": true,
-			"pp_preplay": true,
-			"bf_inplay": false,
-			"bf_preplay": false
+			"pp_inplay": 1,
+			"pp_preplay": 1,
+			"bf_inplay": 0,
+			"bf_preplay": 0
 		}
 	}, {
 		"id": "28500574",
@@ -352,10 +352,10 @@
 		"name": "Iran v Spain",
 		"date": "2018-06-20T18:00:00.000Z",
 		"sgm": {
-			"pp_inplay": false,
-			"pp_preplay": false,
-			"bf_inplay": true,
-			"bf_preplay": true
+			"pp_inplay": 0,
+			"pp_preplay": 0,
+			"bf_inplay": 1,
+			"bf_preplay": 1
 		}
 	}, {
 		"id": "28766881",
@@ -363,10 +363,10 @@
 		"name": "Philadelphia v Vancouver Whitecaps",
 		"date": "2018-06-23T21:00:00.000Z",
 		"sgm": {
-			"pp_inplay": null,
-			"pp_preplay": null,
-			"bf_inplay": null,
-			"bf_preplay": null
+			"pp_inplay": 3,
+			"pp_preplay": 3,
+			"bf_inplay": 3,
+			"bf_preplay": 3
 		}
 	}, {
 		"id": "28766880",
@@ -374,10 +374,10 @@
 		"name": "New York Red Bulls v Dallas",
 		"date": "2018-06-23T22:00:00.000Z",
 		"sgm": {
-			"pp_inplay": null,
-			"pp_preplay": null,
-			"bf_inplay": true,
-			"bf_preplay": false
+			"pp_inplay": 2,
+			"pp_preplay": 2,
+			"bf_inplay": 1,
+			"bf_preplay": 0
 		}
 	}]
 }
