@@ -9,194 +9,191 @@
                 "failed": 0
             },
             "hits": {
-                "total": 27,
+                "total": 70,
                 "max_score": 1.0,
                 "hits": [
                     {
                         "_index": "prd-ecf-single",
                         "_type": "event",
-                        "_id": "5724679",
+                        "_id": "5730351",
                         "_score": 1.0,
                         "_source": {
                             "creationSource": "CREATE",
-                            "_createdTs": 1533636711673,
-                            "displayName": "Oliveirense v Academica",
+                            "_createdTs": 1533823838022,
+                            "displayName": "Liverpool v West Ham",
                             "display": false,
-                            "typeName": "|Portuguese Segunda Liga|",
+                            "typeName": "|English Premier League|",
                             "subclassId": 49,
                             "offeredInRunning": true,
                             "displaySubclassName": "Football Matches",
-                            "displayTypeName": "Portuguese Segunda Liga",
-                            "name": "|Oliveirense| |v| |Academica|",
-                            "startTime": 1534006800000,
-                            "typeId": 13763,
-                            "subclassName": "|Football Matches|",
-                            "id": "5724679",
-                            "live": "YES",
-                            "status": "SUSPENDED",
-                            "participants": [
-                                {
-                                    "name": "Oliveirense",
-                                    "id": "6183",
-                                    "label": "A"
-                                },
-                                {
-                                    "name": "Academica",
-                                    "id": "2075",
-                                    "label": "B"
-                                }
-                            ],
-                            "resulted": true
+                            "displayTypeName": "English Premier League",
+                            "name": "|Liverpool| |v| |West Ham| ",
+                            "startTime": 1533855599000,
+                            "typeId": 289,
+                            "subclassName": "Football Matches",
+                            "id": "5730351",
+                            "live": "NOT_APPLICABLE",
+                            "status": "SUSPENDED"
                         }
                     },
                     {
                         "_index": "prd-ecf-single",
                         "_type": "event",
-                        "_id": "5724958",
+                        "_id": "5730214",
                         "_score": 1.0,
                         "_source": {
                             "creationSource": "CREATE",
-                            "_createdTs": 1533642121588,
-                            "displayName": "Sporting Farense v Famalicao",
-                            "display": true,
-                            "typeName": "|Portuguese Segunda Liga|",
-                            "subclassId": 49,
-                            "offeredInRunning": true,
-                            "displaySubclassName": "Football Matches",
-                            "displayTypeName": "Portuguese Segunda Liga",
-                            "name": "|Sporting Farense| |v| |Famalicao|",
-                            "startTime": 1534003200000,
-                            "typeId": 13763,
-                            "subclassName": "|Football Matches|",
-                            "id": "5724958",
-                            "live": "YES",
-                            "status": "ACTIVE",
-                            "participants": [
-                                {
-                                    "name": "Sporting Farense",
-                                    "id": "3957",
-                                    "label": "A"
-                                },
-                                {
-                                    "name": "Famalicao",
-                                    "id": "46939",
-                                    "label": "B"
-                                }
-                            ],
-                            "resulted": true
-                        }
-                    },
-                    {
-                        "_index": "prd-ecf-single",
-                        "_type": "event",
-                        "_id": "5726377",
-                        "_score": 1.0,
-                        "_source": {
-                            "creationSource": "CREATE",
-                            "_createdTs": 1533699749482,
-                            "displayName": "Vitoria Guimaraes B v Cova da Piedade",
+                            "_createdTs": 1533820733107,
+                            "displayName": "Wolves v Everton",
                             "display": false,
-                            "typeName": "|Portuguese Segunda Liga|",
+                            "typeName": "|English Premier League|",
                             "subclassId": 49,
                             "offeredInRunning": true,
                             "displaySubclassName": "Football Matches",
-                            "displayTypeName": "Portuguese Segunda Liga",
-                            "name": "|Vitoria Guimaraes B| |v| |Cova da Piedade|",
-                            "startTime": 1534093200000,
-                            "typeId": 13763,
-                            "subclassName": "|Football Matches|",
-                            "id": "5726377",
-                            "live": "YES",
-                            "status": "SUSPENDED",
-                            "participants": [
-                                {
-                                    "name": "Vitoria Guimaraes B",
-                                    "id": "63200",
-                                    "label": "A"
-                                },
-                                {
-                                    "name": "Cova da Piedade",
-                                    "id": "3439",
-                                    "label": "B"
-                                }
-                            ],
-                            "resulted": true
+                            "displayTypeName": "English Premier League",
+                            "name": "|Wolves| |v| |Everton| ",
+                            "startTime": 1533855599000,
+                            "typeId": 289,
+                            "subclassName": "Football Matches",
+                            "id": "5730214",
+                            "live": "NOT_APPLICABLE",
+                            "status": "SUSPENDED"
                         }
                     },
                     {
                         "_index": "prd-ecf-single",
                         "_type": "event",
-                        "_id": "5740257",
+                        "_id": "5730136",
                         "_score": 1.0,
                         "_source": {
                             "creationSource": "CREATE",
-                            "_createdTs": 1534233264615,
-                            "displayName": "Academica v Pacos Ferreira",
-                            "display": true,
-                            "typeName": "|Portuguese Segunda Liga|",
+                            "_createdTs": 1533817038482,
+                            "displayName": "Man Utd v Leicester",
+                            "display": false,
+                            "typeName": "|English Premier League|",
                             "subclassId": 49,
                             "offeredInRunning": true,
                             "displaySubclassName": "Football Matches",
-                            "displayTypeName": "Portuguese Segunda Liga",
-                            "name": "|Academica| |v| |Pacos Ferreira|",
-                            "startTime": 1534587300000,
-                            "typeId": 13763,
-                            "subclassName": "|Football Matches|",
-                            "id": "5740257",
-                            "live": "YES",
-                            "status": "SUSPENDED",
-                            "participants": [
-                                {
-                                    "name": "Academica",
-                                    "id": "2075",
-                                    "label": "A"
-                                },
-                                {
-                                    "name": "Pacos Ferreira",
-                                    "id": "6253",
-                                    "label": "B"
-                                }
-                            ],
-                            "resulted": true
+                            "displayTypeName": "English Premier League",
+                            "name": "|Man Utd| |v| |Leicester| ",
+                            "startTime": 1533855599000,
+                            "typeId": 289,
+                            "subclassName": "Football Matches",
+                            "id": "5730136",
+                            "live": "NOT_APPLICABLE",
+                            "status": "SUSPENDED"
                         }
                     },
                     {
                         "_index": "prd-ecf-single",
                         "_type": "event",
-                        "_id": "5755907",
+                        "_id": "5613990",
                         "_score": 1.0,
                         "_source": {
                             "creationSource": "CREATE",
-                            "_createdTs": 1534841212688,
-                            "displayName": "Penafiel v Porto B",
-                            "display": true,
-                            "typeName": "|Portuguese Segunda Liga|",
+                            "_createdTs": 1528964730759,
+                            "displayName": "Newcastle v Tottenham",
+                            "display": false,
+                            "typeName": "|English Premier League|",
                             "subclassId": 49,
-                            "offeredInRunning": false,
+                            "offeredInRunning": true,
                             "displaySubclassName": "Football Matches",
-                            "displayTypeName": "Portuguese Segunda Liga",
-                            "name": "|Penafiel| |v| |Porto B|",
-                            "startTime": 1535192100000,
-                            "typeId": 13763,
+                            "displayTypeName": "English Premier League",
+                            "name": "|Newcastle| |v| |Tottenham|",
+                            "startTime": 1533987000000,
+                            "typeId": 289,
                             "subclassName": "|Football Matches|",
-                            "id": "5755907",
+                            "id": "5613990",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Newcastle",
+                                    "id": "15",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Tottenham",
+                                    "id": "19",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": false
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5613982",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1528964314612,
+                            "displayName": "Bournemouth v Cardiff",
+                            "display": false,
+                            "typeName": "|English Premier League|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "English Premier League",
+                            "name": "|Bournemouth| |v| |Cardiff|",
+                            "startTime": 1533996000000,
+                            "typeId": 289,
+                            "subclassName": "|Football Matches|",
+                            "id": "5613982",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Bournemouth",
+                                    "id": "2935",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Cardiff",
+                                    "id": "3105",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": false
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5736471",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534080056694,
+                            "displayName": "Bournemouth v Everton",
+                            "display": true,
+                            "typeName": "|English Premier League|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "English Premier League",
+                            "name": "|Bournemouth| |v| |Everton|",
+                            "startTime": 1535205600000,
+                            "typeId": 289,
+                            "subclassName": "|Football Matches|",
+                            "id": "5736471",
                             "live": "NOT_APPLICABLE",
                             "status": "ACTIVE",
                             "participants": [
                                 {
-                                    "name": "Penafiel",
-                                    "id": "6328",
+                                    "name": "Bournemouth",
+                                    "id": "2935",
                                     "label": "A"
                                 },
                                 {
-                                    "name": "Porto B",
-                                    "id": "65401",
+                                    "name": "Everton",
+                                    "id": "8",
                                     "label": "B"
                                 }
                             ]
                         }
-                    }
-                ]
+                    }                ]
             }
         }
     ]
