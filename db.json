@@ -1,1170 +1,1434 @@
 {
-	"sports": [{
-		"id": 1,
-		"name": "Football",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 2,
-		"name": "Basketball",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 3,
-		"name": "Cricket",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 4,
-		"name": "MMA",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 5,
-		"name": "Horseracing",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 6,
-		"name": "Greyhounds",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 7,
-		"name": "Volleyball",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 8,
-		"name": "Handball",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 9,
-		"name": "American Football",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 10,
-		"name": "Rugby",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 11,
-		"name": "Tennis",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 12,
-		"name": "Boxing",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 13,
-		"name": "Motor Sport",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 14,
-		"name": "Special Bets",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 15,
-		"name": "Cycling",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 16,
-		"name": "Golf",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 17,
-		"name": "Rowing",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 18,
-		"name": "Darts",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 19,
-		"name": "Athletics",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 20,
-		"name": "Snooker",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 21,
-		"name": "Baseball",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 22,
-		"name": "Hockey",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 23,
-		"name": "Ice Hockey",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 24,
-		"name": "Sumo",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 25,
-		"name": "Pool",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 26,
-		"name": "Chess",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 27,
-		"name": "CW Games",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 28,
-		"name": "Poker",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 29,
-		"name": "Winter",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": 30,
-		"name": "Netball",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}],
-	"competitions": [{
-		"id": "5614746",
-		"sportId": 1,
-		"name": "2018 FIFA World Cup",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": "141",
-		"sportId": 9,
-		"name": "US Major League Football",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}],
-	"events": [{
-		"id": "28500602",
-		"competitionId": "5614746",
-		"name": "Colombia v Japan",
-		"date": "2018-06-19T12:00:00.000Z",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 1,
-			"bf_inplay": 1,
-			"bf_preplay": 1
-		}
-	}, {
-		"id": "28500600",
-		"competitionId": "5614746",
-		"name": "Poland v Senegal",
-		"date": "2018-06-19T15:00:00.000Z",
-		"sgm": {
-			"pp_inplay": 0,
-			"pp_preplay": 0,
-			"bf_inplay": 0,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": "28500567",
-		"competitionId": "5614746",
-		"name": "Russia v Egypt",
-		"date": "2018-06-19T18:00:00.000Z",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": "28500607",
-		"competitionId": "5614746",
-		"name": "Portugal v Morocco",
-		"date": "2018-06-20T12:00:00.000Z",
-		"sgm": {
-			"pp_inplay": 0,
-			"pp_preplay": 1,
-			"bf_inplay": 0,
-			"bf_preplay": 1
-		}
-	}, {
-		"id": "28500590",
-		"competitionId": "5614746",
-		"name": "Uruguay v Saudi Arabia",
-		"date": "2018-06-20T15:00:00.000Z",
-		"sgm": {
-			"pp_inplay": 1,
-			"pp_preplay": 1,
-			"bf_inplay": 0,
-			"bf_preplay": 0
-		}
-	}, {
-		"id": "28500574",
-		"competitionId": "5614746",
-		"name": "Iran v Spain",
-		"date": "2018-06-20T18:00:00.000Z",
-		"sgm": {
-			"pp_inplay": 0,
-			"pp_preplay": 0,
-			"bf_inplay": 1,
-			"bf_preplay": 1
-		}
-	}, {
-		"id": "28766881",
-		"competitionId": "141",
-		"name": "Philadelphia v Vancouver Whitecaps",
-		"date": "2018-06-23T21:00:00.000Z",
-		"sgm": {
-			"pp_inplay": 3,
-			"pp_preplay": 3,
-			"bf_inplay": 3,
-			"bf_preplay": 3
-		}
-	}, {
-		"id": "28766880",
-		"competitionId": "141",
-		"name": "New York Red Bulls v Dallas",
-		"date": "2018-06-23T22:00:00.000Z",
-		"sgm": {
-			"pp_inplay": 2,
-			"pp_preplay": 2,
-			"bf_inplay": 1,
-			"bf_preplay": 0
-		}
-	}]
+    "sports": [
+        {
+            "id": 1,
+            "name": "Football",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Basketball",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 3,
+            "name": "Cricket",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 4,
+            "name": "MMA",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 5,
+            "name": "Horseracing",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 6,
+            "name": "Greyhounds",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 7,
+            "name": "Volleyball",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 8,
+            "name": "Handball",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 9,
+            "name": "American Football",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 10,
+            "name": "Rugby",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 11,
+            "name": "Tennis",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 12,
+            "name": "Boxing",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 13,
+            "name": "Motor Sport",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 14,
+            "name": "Special Bets",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 15,
+            "name": "Cycling",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 16,
+            "name": "Golf",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 17,
+            "name": "Rowing",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 18,
+            "name": "Darts",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 19,
+            "name": "Athletics",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 20,
+            "name": "Snooker",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 21,
+            "name": "Baseball",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 22,
+            "name": "Hockey",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 23,
+            "name": "Ice Hockey",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 24,
+            "name": "Sumo",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 25,
+            "name": "Pool",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 26,
+            "name": "Chess",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 27,
+            "name": "CW Games",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 28,
+            "name": "Poker",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 29,
+            "name": "Winter",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": 30,
+            "name": "Netball",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        }
+    ],
+    "competitions": [
+        {
+            "id": "5614746",
+            "sportId": 1,
+            "name": "2018 FIFA World Cup",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": "141",
+            "sportId": 9,
+            "name": "US Major League Football",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        }
+    ],
+    "events": [
+        {
+            "id": "28500602",
+            "competitionId": "5614746",
+            "name": "Colombia v Japan",
+            "date": "2018-06-19T12:00:00.000Z",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 1,
+                "bf_inplay": 1,
+                "bf_preplay": 1
+            }
+        },
+        {
+            "id": "28500600",
+            "competitionId": "5614746",
+            "name": "Poland v Senegal",
+            "date": "2018-06-19T15:00:00.000Z",
+            "sgm": {
+                "pp_inplay": 0,
+                "pp_preplay": 0,
+                "bf_inplay": 0,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": "28500567",
+            "competitionId": "5614746",
+            "name": "Russia v Egypt",
+            "date": "2018-06-19T18:00:00.000Z",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": "28500607",
+            "competitionId": "5614746",
+            "name": "Portugal v Morocco",
+            "date": "2018-06-20T12:00:00.000Z",
+            "sgm": {
+                "pp_inplay": 0,
+                "pp_preplay": 1,
+                "bf_inplay": 0,
+                "bf_preplay": 1
+            }
+        },
+        {
+            "id": "28500590",
+            "competitionId": "5614746",
+            "name": "Uruguay v Saudi Arabia",
+            "date": "2018-06-20T15:00:00.000Z",
+            "sgm": {
+                "pp_inplay": 1,
+                "pp_preplay": 1,
+                "bf_inplay": 0,
+                "bf_preplay": 0
+            }
+        },
+        {
+            "id": "28500574",
+            "competitionId": "5614746",
+            "name": "Iran v Spain",
+            "date": "2018-06-20T18:00:00.000Z",
+            "sgm": {
+                "pp_inplay": 0,
+                "pp_preplay": 0,
+                "bf_inplay": 1,
+                "bf_preplay": 1
+            }
+        },
+        {
+            "id": "28766881",
+            "competitionId": "141",
+            "name": "Philadelphia v Vancouver Whitecaps",
+            "date": "2018-06-23T21:00:00.000Z",
+            "sgm": {
+                "pp_inplay": 3,
+                "pp_preplay": 3,
+                "bf_inplay": 3,
+                "bf_preplay": 3
+            }
+        },
+        {
+            "id": "28766880",
+            "competitionId": "141",
+            "name": "New York Red Bulls v Dallas",
+            "date": "2018-06-23T22:00:00.000Z",
+            "sgm": {
+                "pp_inplay": 2,
+                "pp_preplay": 2,
+                "bf_inplay": 1,
+                "bf_preplay": 0
+            }
+        }
+    ],
 
-	"evtcatalog": [{
-  "took": 3,
-  "timed_out": false,
-  "_shards": { "total": 5, "successful": 5, "failed": 0 },
-  "hits": {
-    "total": 27,
-    "max_score": 1.0,
-    "hits": [
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5724679",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533636711673,
-          "displayName": "Oliveirense v Academica",
-          "display": false,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Oliveirense| |v| |Academica|",
-          "startTime": 1534006800000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5724679",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Oliveirense", "id": "6183", "label": "A" },
-            { "name": "Academica", "id": "2075", "label": "B" }
-          ],
-          "resulted": true
+    "evtcatalog": [
+        {
+            "took": 3,
+            "timed_out": false,
+            "_shards": {
+                "total": 5,
+                "successful": 5,
+                "failed": 0
+            },
+            "hits": {
+                "total": 27,
+                "max_score": 1.0,
+                "hits": [
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5724679",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533636711673,
+                            "displayName": "Oliveirense v Academica",
+                            "display": false,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Oliveirense| |v| |Academica|",
+                            "startTime": 1534006800000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5724679",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Oliveirense",
+                                    "id": "6183",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Academica",
+                                    "id": "2075",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5724958",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533642121588,
+                            "displayName": "Sporting Farense v Famalicao",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Sporting Farense| |v| |Famalicao|",
+                            "startTime": 1534003200000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5724958",
+                            "live": "YES",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Sporting Farense",
+                                    "id": "3957",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Famalicao",
+                                    "id": "46939",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5726377",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533699749482,
+                            "displayName": "Vitoria Guimaraes B v Cova da Piedade",
+                            "display": false,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Vitoria Guimaraes B| |v| |Cova da Piedade|",
+                            "startTime": 1534093200000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5726377",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Vitoria Guimaraes B",
+                                    "id": "63200",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Cova da Piedade",
+                                    "id": "3439",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5740257",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534233264615,
+                            "displayName": "Academica v Pacos Ferreira",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Academica| |v| |Pacos Ferreira|",
+                            "startTime": 1534587300000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5740257",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Academica",
+                                    "id": "2075",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Pacos Ferreira",
+                                    "id": "6253",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5741719",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534274158417,
+                            "displayName": "Famalicao v Penafiel",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Famalicao| |v| |Penafiel|",
+                            "startTime": 1534694400000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5741719",
+                            "live": "YES",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Famalicao",
+                                    "id": "46939",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Penafiel",
+                                    "id": "6328",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5740973",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534253528477,
+                            "displayName": "Arouca v Benfica B",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Arouca| |v| |Benfica B|",
+                            "startTime": 1534673700000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5740973",
+                            "live": "YES",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Arouca",
+                                    "id": "2485",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Benfica B",
+                                    "id": "65399",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5757137",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534877397511,
+                            "displayName": "Benfica B v CD Mafra",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Benfica B| |v| |CD Mafra|",
+                            "startTime": 1535302800000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5757137",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Benfica B",
+                                    "id": "65399",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "CD Mafra",
+                                    "id": "9708",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5757145",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534878051115,
+                            "displayName": "Oliveirense v Cova da Piedade",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Oliveirense| |v| |Cova da Piedade|",
+                            "startTime": 1535299200000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5757145",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Oliveirense",
+                                    "id": "6183",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Cova da Piedade",
+                                    "id": "3439",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5724956",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533642121674,
+                            "displayName": "Pacos Ferreira v Sporting Braga B",
+                            "display": false,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Pacos Ferreira| |v| |Sporting Braga B|",
+                            "startTime": 1534068900000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5724956",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Pacos Ferreira",
+                                    "id": "6253",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Sporting Braga B",
+                                    "id": "65400",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5741731",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534274250676,
+                            "displayName": "Cova da Piedade v Sporting Covilha",
+                            "display": false,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Cova da Piedade| |v| |Sporting Covilha|",
+                            "startTime": 1534608000000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5741731",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Cova da Piedade",
+                                    "id": "3439",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Sporting Covilha",
+                                    "id": "7228",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5740258",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534233283198,
+                            "displayName": "CD Mafra v Vitoria Guimaraes B",
+                            "display": false,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|CD Mafra| |v| |Vitoria Guimaraes B|",
+                            "startTime": 1534608000000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5740258",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "CD Mafra",
+                                    "id": "9708",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Vitoria Guimaraes B",
+                                    "id": "63200",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5741727",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534274217644,
+                            "displayName": "Academico de Viseu v Oliveirense",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Academico de Viseu| |v| |Oliveirense|",
+                            "startTime": 1534694400000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5741727",
+                            "live": "YES",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Academico de Viseu",
+                                    "id": "82455",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Oliveirense",
+                                    "id": "6183",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5756658",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534856663997,
+                            "displayName": "Estoril v Leixoes",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Estoril| |v| |Leixoes|",
+                            "startTime": 1535278500000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5756658",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Estoril",
+                                    "id": "3895",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Leixoes",
+                                    "id": "5379",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5757140",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534877745377,
+                            "displayName": "Varzim v Sporting Covilha",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Varzim| |v| |Sporting Covilha|",
+                            "startTime": 1535212800000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5757140",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Varzim",
+                                    "id": "7864",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Sporting Covilha",
+                                    "id": "7228",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5724957",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533642126096,
+                            "displayName": "Estoril v Porto B",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Estoril| |v| |Porto B|",
+                            "startTime": 1533982500000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5724957",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Estoril",
+                                    "id": "3895",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Porto B",
+                                    "id": "65401",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5724632",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533636158490,
+                            "displayName": "Benfica B v Leixoes",
+                            "display": false,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Benfica B| |v| |Leixoes|",
+                            "startTime": 1534006800000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5724632",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Benfica B",
+                                    "id": "65399",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Leixoes",
+                                    "id": "5379",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5725439",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533662280957,
+                            "displayName": "Sporting Covilha v Academico de Viseu",
+                            "display": false,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Sporting Covilha| |v| |Academico de Viseu|",
+                            "startTime": 1534093200000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5725439",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Sporting Covilha",
+                                    "id": "7228",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Academico de Viseu",
+                                    "id": "82455",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5740260",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534233265690,
+                            "displayName": "Sporting Braga B v Estoril",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Sporting Braga B| |v| |Estoril|",
+                            "startTime": 1534611600000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5740260",
+                            "live": "YES",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Sporting Braga B",
+                                    "id": "65400",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Estoril",
+                                    "id": "3895",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5741735",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534274277557,
+                            "displayName": "Leixoes v Varzim",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Leixoes| |v| |Varzim|",
+                            "startTime": 1534690800000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5741735",
+                            "live": "YES",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Leixoes",
+                                    "id": "5379",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Varzim",
+                                    "id": "7864",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5757139",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534877727550,
+                            "displayName": "Vitoria Guimaraes B v Academica",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Vitoria Guimaraes B| |v| |Academica|",
+                            "startTime": 1535299200000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5757139",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Vitoria Guimaraes B",
+                                    "id": "63200",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Academica",
+                                    "id": "2075",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5757143",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534878049561,
+                            "displayName": "Academico de Viseu v Arouca",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Academico de Viseu| |v| |Arouca|",
+                            "startTime": 1535299200000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5757143",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Academico de Viseu",
+                                    "id": "82455",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Arouca",
+                                    "id": "2485",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5757144",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534878051190,
+                            "displayName": "Pacos Ferreira v Famalicao",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Pacos Ferreira| |v| |Famalicao|",
+                            "startTime": 1535299200000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5757144",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Pacos Ferreira",
+                                    "id": "6253",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Famalicao",
+                                    "id": "46939",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5725481",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533666887069,
+                            "displayName": "Varzim v CD Mafra",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Varzim| |v| |CD Mafra|",
+                            "startTime": 1534089600000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5725481",
+                            "live": "YES",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Varzim",
+                                    "id": "7864",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "CD Mafra",
+                                    "id": "9708",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5726376",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1533699755109,
+                            "displayName": "Penafiel v Arouca",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Penafiel| |v| |Arouca|",
+                            "startTime": 1534089600000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5726376",
+                            "live": "YES",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Penafiel",
+                                    "id": "6328",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Arouca",
+                                    "id": "2485",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5740259",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534233263303,
+                            "displayName": "Porto B v Sporting Farense",
+                            "display": false,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": true,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Porto B| |v| |Sporting Farense|",
+                            "startTime": 1534608000000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5740259",
+                            "live": "YES",
+                            "status": "SUSPENDED",
+                            "participants": [
+                                {
+                                    "name": "Porto B",
+                                    "id": "65401",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Sporting Farense",
+                                    "id": "3957",
+                                    "label": "B"
+                                }
+                            ],
+                            "resulted": true
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5757146",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534878053710,
+                            "displayName": "Sporting Farense v Sporting Braga B",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Sporting Farense| |v| |Sporting Braga B|",
+                            "startTime": 1535302800000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5757146",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Sporting Farense",
+                                    "id": "3957",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Sporting Braga B",
+                                    "id": "65400",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "_index": "prd-ecf-single",
+                        "_type": "event",
+                        "_id": "5755907",
+                        "_score": 1.0,
+                        "_source": {
+                            "creationSource": "CREATE",
+                            "_createdTs": 1534841212688,
+                            "displayName": "Penafiel v Porto B",
+                            "display": true,
+                            "typeName": "|Portuguese Segunda Liga|",
+                            "subclassId": 49,
+                            "offeredInRunning": false,
+                            "displaySubclassName": "Football Matches",
+                            "displayTypeName": "Portuguese Segunda Liga",
+                            "name": "|Penafiel| |v| |Porto B|",
+                            "startTime": 1535192100000,
+                            "typeId": 13763,
+                            "subclassName": "|Football Matches|",
+                            "id": "5755907",
+                            "live": "NOT_APPLICABLE",
+                            "status": "ACTIVE",
+                            "participants": [
+                                {
+                                    "name": "Penafiel",
+                                    "id": "6328",
+                                    "label": "A"
+                                },
+                                {
+                                    "name": "Porto B",
+                                    "id": "65401",
+                                    "label": "B"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5724958",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533642121588,
-          "displayName": "Sporting Farense v Famalicao",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Sporting Farense| |v| |Famalicao|",
-          "startTime": 1534003200000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5724958",
-          "live": "YES",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Sporting Farense", "id": "3957", "label": "A" },
-            { "name": "Famalicao", "id": "46939", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5726377",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533699749482,
-          "displayName": "Vitoria Guimaraes B v Cova da Piedade",
-          "display": false,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Vitoria Guimaraes B| |v| |Cova da Piedade|",
-          "startTime": 1534093200000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5726377",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Vitoria Guimaraes B", "id": "63200", "label": "A" },
-            { "name": "Cova da Piedade", "id": "3439", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5740257",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534233264615,
-          "displayName": "Academica v Pacos Ferreira",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Academica| |v| |Pacos Ferreira|",
-          "startTime": 1534587300000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5740257",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Academica", "id": "2075", "label": "A" },
-            { "name": "Pacos Ferreira", "id": "6253", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5741719",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534274158417,
-          "displayName": "Famalicao v Penafiel",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Famalicao| |v| |Penafiel|",
-          "startTime": 1534694400000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5741719",
-          "live": "YES",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Famalicao", "id": "46939", "label": "A" },
-            { "name": "Penafiel", "id": "6328", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5740973",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534253528477,
-          "displayName": "Arouca v Benfica B",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Arouca| |v| |Benfica B|",
-          "startTime": 1534673700000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5740973",
-          "live": "YES",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Arouca", "id": "2485", "label": "A" },
-            { "name": "Benfica B", "id": "65399", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5757137",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534877397511,
-          "displayName": "Benfica B v CD Mafra",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Benfica B| |v| |CD Mafra|",
-          "startTime": 1535302800000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5757137",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Benfica B", "id": "65399", "label": "A" },
-            { "name": "CD Mafra", "id": "9708", "label": "B" }
-          ]
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5757145",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534878051115,
-          "displayName": "Oliveirense v Cova da Piedade",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Oliveirense| |v| |Cova da Piedade|",
-          "startTime": 1535299200000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5757145",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Oliveirense", "id": "6183", "label": "A" },
-            { "name": "Cova da Piedade", "id": "3439", "label": "B" }
-          ]
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5724956",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533642121674,
-          "displayName": "Pacos Ferreira v Sporting Braga B",
-          "display": false,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Pacos Ferreira| |v| |Sporting Braga B|",
-          "startTime": 1534068900000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5724956",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Pacos Ferreira", "id": "6253", "label": "A" },
-            { "name": "Sporting Braga B", "id": "65400", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5741731",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534274250676,
-          "displayName": "Cova da Piedade v Sporting Covilha",
-          "display": false,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Cova da Piedade| |v| |Sporting Covilha|",
-          "startTime": 1534608000000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5741731",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Cova da Piedade", "id": "3439", "label": "A" },
-            { "name": "Sporting Covilha", "id": "7228", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5740258",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534233283198,
-          "displayName": "CD Mafra v Vitoria Guimaraes B",
-          "display": false,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|CD Mafra| |v| |Vitoria Guimaraes B|",
-          "startTime": 1534608000000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5740258",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "CD Mafra", "id": "9708", "label": "A" },
-            { "name": "Vitoria Guimaraes B", "id": "63200", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5741727",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534274217644,
-          "displayName": "Academico de Viseu v Oliveirense",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Academico de Viseu| |v| |Oliveirense|",
-          "startTime": 1534694400000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5741727",
-          "live": "YES",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Academico de Viseu", "id": "82455", "label": "A" },
-            { "name": "Oliveirense", "id": "6183", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5756658",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534856663997,
-          "displayName": "Estoril v Leixoes",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Estoril| |v| |Leixoes|",
-          "startTime": 1535278500000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5756658",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Estoril", "id": "3895", "label": "A" },
-            { "name": "Leixoes", "id": "5379", "label": "B" }
-          ]
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5757140",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534877745377,
-          "displayName": "Varzim v Sporting Covilha",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Varzim| |v| |Sporting Covilha|",
-          "startTime": 1535212800000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5757140",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Varzim", "id": "7864", "label": "A" },
-            { "name": "Sporting Covilha", "id": "7228", "label": "B" }
-          ]
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5724957",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533642126096,
-          "displayName": "Estoril v Porto B",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Estoril| |v| |Porto B|",
-          "startTime": 1533982500000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5724957",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Estoril", "id": "3895", "label": "A" },
-            { "name": "Porto B", "id": "65401", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5724632",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533636158490,
-          "displayName": "Benfica B v Leixoes",
-          "display": false,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Benfica B| |v| |Leixoes|",
-          "startTime": 1534006800000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5724632",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Benfica B", "id": "65399", "label": "A" },
-            { "name": "Leixoes", "id": "5379", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5725439",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533662280957,
-          "displayName": "Sporting Covilha v Academico de Viseu",
-          "display": false,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Sporting Covilha| |v| |Academico de Viseu|",
-          "startTime": 1534093200000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5725439",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Sporting Covilha", "id": "7228", "label": "A" },
-            { "name": "Academico de Viseu", "id": "82455", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5740260",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534233265690,
-          "displayName": "Sporting Braga B v Estoril",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Sporting Braga B| |v| |Estoril|",
-          "startTime": 1534611600000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5740260",
-          "live": "YES",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Sporting Braga B", "id": "65400", "label": "A" },
-            { "name": "Estoril", "id": "3895", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5741735",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534274277557,
-          "displayName": "Leixoes v Varzim",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Leixoes| |v| |Varzim|",
-          "startTime": 1534690800000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5741735",
-          "live": "YES",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Leixoes", "id": "5379", "label": "A" },
-            { "name": "Varzim", "id": "7864", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5757139",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534877727550,
-          "displayName": "Vitoria Guimaraes B v Academica",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Vitoria Guimaraes B| |v| |Academica|",
-          "startTime": 1535299200000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5757139",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Vitoria Guimaraes B", "id": "63200", "label": "A" },
-            { "name": "Academica", "id": "2075", "label": "B" }
-          ]
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5757143",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534878049561,
-          "displayName": "Academico de Viseu v Arouca",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Academico de Viseu| |v| |Arouca|",
-          "startTime": 1535299200000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5757143",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Academico de Viseu", "id": "82455", "label": "A" },
-            { "name": "Arouca", "id": "2485", "label": "B" }
-          ]
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5757144",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534878051190,
-          "displayName": "Pacos Ferreira v Famalicao",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Pacos Ferreira| |v| |Famalicao|",
-          "startTime": 1535299200000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5757144",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Pacos Ferreira", "id": "6253", "label": "A" },
-            { "name": "Famalicao", "id": "46939", "label": "B" }
-          ]
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5725481",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533666887069,
-          "displayName": "Varzim v CD Mafra",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Varzim| |v| |CD Mafra|",
-          "startTime": 1534089600000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5725481",
-          "live": "YES",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Varzim", "id": "7864", "label": "A" },
-            { "name": "CD Mafra", "id": "9708", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5726376",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1533699755109,
-          "displayName": "Penafiel v Arouca",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Penafiel| |v| |Arouca|",
-          "startTime": 1534089600000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5726376",
-          "live": "YES",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Penafiel", "id": "6328", "label": "A" },
-            { "name": "Arouca", "id": "2485", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5740259",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534233263303,
-          "displayName": "Porto B v Sporting Farense",
-          "display": false,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": true,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Porto B| |v| |Sporting Farense|",
-          "startTime": 1534608000000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5740259",
-          "live": "YES",
-          "status": "SUSPENDED",
-          "participants": [
-            { "name": "Porto B", "id": "65401", "label": "A" },
-            { "name": "Sporting Farense", "id": "3957", "label": "B" }
-          ],
-          "resulted": true
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5757146",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534878053710,
-          "displayName": "Sporting Farense v Sporting Braga B",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Sporting Farense| |v| |Sporting Braga B|",
-          "startTime": 1535302800000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5757146",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Sporting Farense", "id": "3957", "label": "A" },
-            { "name": "Sporting Braga B", "id": "65400", "label": "B" }
-          ]
-        }
-      },
-      {
-        "_index": "prd-ecf-single",
-        "_type": "event",
-        "_id": "5755907",
-        "_score": 1.0,
-        "_source": {
-          "creationSource": "CREATE",
-          "_createdTs": 1534841212688,
-          "displayName": "Penafiel v Porto B",
-          "display": true,
-          "typeName": "|Portuguese Segunda Liga|",
-          "subclassId": 49,
-          "offeredInRunning": false,
-          "displaySubclassName": "Football Matches",
-          "displayTypeName": "Portuguese Segunda Liga",
-          "name": "|Penafiel| |v| |Porto B|",
-          "startTime": 1535192100000,
-          "typeId": 13763,
-          "subclassName": "|Football Matches|",
-          "id": "5755907",
-          "live": "NOT_APPLICABLE",
-          "status": "ACTIVE",
-          "participants": [
-            { "name": "Penafiel", "id": "6328", "label": "A" },
-            { "name": "Porto B", "id": "65401", "label": "B" }
-          ]
-        }
-      }
     ]
-  }
-}
-]
 }
